@@ -1,5 +1,5 @@
 /*
-  for quickly understand: 
+  to quickly understand: 
   
     applyMiddleWare function of redux provides to middlewares, "store.dispatch" and "store.getState()" methods, because
   a middleware needs "store.dispatch" and "store.getState()" methods to be available inside of itself. 
