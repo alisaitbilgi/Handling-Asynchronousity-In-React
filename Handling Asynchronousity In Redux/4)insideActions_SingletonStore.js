@@ -8,10 +8,10 @@
     Actions + Reducers => Controller (C)
 
     By using this approach, we'll have a better reusable both components and actions, loosly coupled and modular js files.
-  This seperation of concerns requires, async operations to be handled inside of "ACTIONS" not #components#. So, the easiest 
-  and not a good way of handling async operations inside of actions is; importing store in an action creator and making 
-  store.dispatch() inside, because to make an async operation inside of action we need store.dispatch method to be available 
-  in actions.
+  This seperation of concerns requires, async operations to be handled inside of "ACTIONS" not #components#. 
+    So, to make it, the easiest and not a good way of handling async operations inside of actions is; importing store 
+  in an action creator and making store.dispatch() inside, because to make an async operation inside of action 
+  we need store.dispatch method to be available in actions.
 */
 
 // store.js
