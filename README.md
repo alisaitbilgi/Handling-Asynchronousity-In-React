@@ -1,4 +1,4 @@
-# Handling-Asynchronousity-In-Redux (Promise-based)
+# Handling-Asynchronousity-In-React (Promise-based)
 
 	In this presentation,I tried to answer 4 main questions to cover async concept in React:
 
@@ -12,7 +12,7 @@
 
 
  
- 	We'll make same, simple async operation 6 times with 6 different ways and evaluate pros-cons of each step.
+ 	#We'll make same, simple async operation 6 times with 6 different ways and evaluate pros-cons of each step.
 
 	(Async Operation: show a notificiation to user when logged in, and then hide it after 5 seconds.)
 
