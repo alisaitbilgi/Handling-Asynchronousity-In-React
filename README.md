@@ -12,7 +12,7 @@
 
 
  
- 	#We'll make same, simple async operation 6 times with 6 different ways and evaluate pros-cons of each step.
+ 	#We'll make the same, simple async operation 6 times with 6 different ways and evaluate pros-cons of each step.
 
 	(Async Operation: show a notificiation to user when logged in, and then hide it after 5 seconds.)
 
